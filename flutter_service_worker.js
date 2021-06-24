@@ -14,7 +14,7 @@ const RESOURCES = {
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "e8c8ced71cfae31be60b7544ceb59241",
-"https://21170293.github.io/example/": "e8c8ced71cfae31be60b7544ceb59241",
+"/": "e8c8ced71cfae31be60b7544ceb59241",
 "main.dart.js": "5c819b7b24bb7357ace88c69da104db6",
 "manifest.json": "818e679640de52585978c824a198bd60",
 "version.json": "4408568fa3c0663ca5445b338fe1526c"
@@ -23,7 +23,7 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "https://21170293.github.io/example/",
+  "/",
 "main.dart.js",
 "index.html",
 "assets/NOTICES",
